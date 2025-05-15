@@ -1,0 +1,6 @@
+
+# Label mapping
+id2label = {
+    "0": "Real",
+    "1": "AI"
+}
